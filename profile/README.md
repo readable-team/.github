@@ -8,7 +8,7 @@
 ![tRPC](https://img.shields.io/badge/trpc-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 
 ### 백엔드
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![tRPC](https://img.shields.io/badge/trpc-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
