@@ -1,3 +1,5 @@
+![](https://cdn.rdbl.app/opengraph/cover.png)
+
 ## 이런 기술을 쓰고 있어요
 
 ### 프론트엔드
