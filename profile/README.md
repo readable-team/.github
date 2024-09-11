@@ -5,18 +5,16 @@
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-F1413D?style=for-the-badge&logo=svelte&logoColor=white)
 ![PandaCSS](https://img.shields.io/badge/pandacss-FDE047?style=for-the-badge&logo=chakraui&logoColor=black)
-![tRPC](https://img.shields.io/badge/trpc-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 백엔드
-![NodeJS](https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Bun](https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![tRPC](https://img.shields.io/badge/trpc-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 <br />
-![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Meilisearch](https://img.shields.io/badge/meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white)
 
 ### 인프라
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
